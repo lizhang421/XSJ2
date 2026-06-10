@@ -1,0 +1,386 @@
+2026-04-18 00:00:00.030 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 正在处理第 1 页，本批次 54 条视频
+2026-04-18 00:00:00.116 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL005f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.128 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL004f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.137 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL003f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.145 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL002f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.156 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL001f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.168 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB005f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.179 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB004f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.189 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB003f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.198 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB002f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.207 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB001f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.218 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL005f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.229 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL004f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.239 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL003f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.250 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL002f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.261 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL001f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.276 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB005f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.286 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB004f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.296 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB003f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.305 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB002f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.314 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB001f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 00:00:00.324 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB005f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 00:00:00.333 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB004f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 00:00:00.342 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB003f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 00:00:00.351 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB002f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 00:00:00.360 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB001f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 00:00:00.370 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe2720ce7f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.379 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe27129caf03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.390 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe26e5109f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 00:00:00.400 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL005f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.407 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL004f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.417 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL003f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.426 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL002f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.436 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL001f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.448 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB005f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.458 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB004f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.469 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB003f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.478 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB002f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.494 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB001f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 00:00:00.495 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - ==============================
+2026-04-18 00:00:00.495 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 任务完成！总处理视频数：54
+2026-04-18 00:00:00.495 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - ==============================
+2026-04-18 00:00:00.509 [scheduling-1] INFO  com.example.XSJ.Controller.UserInterestSchedule - 用户 UI8bba3e20-8623-4f78-8790-20075ed295a8 最终兴趣：{"其他":100}
+2026-04-18 00:00:00.514 [scheduling-1] INFO  com.example.XSJ.Controller.UserInterestSchedule - 用户 UIa605859e-8d36-40d4-a115-7afc37d0215f 无观看记录
+2026-04-18 00:15:14.406 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 视频资源落地临时文件完成：C:\Users\16790\Desktop\bs\XSj_H2\upload\file\06dad1c8-fb45-42cf-84c4-0422996a1c68_temp.mp4
+2026-04-18 00:15:14.406 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码480p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_480p.mp4
+2026-04-18 00:15:14.406 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\06dad1c8-fb45-42cf-84c4-0422996a1c68_temp.mp4 -s 854x480 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_480p.mp4
+2026-04-18 00:15:19.782 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 480p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_480p.mp4
+2026-04-18 00:15:19.782 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码720p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_720p.mp4
+2026-04-18 00:15:19.782 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\06dad1c8-fb45-42cf-84c4-0422996a1c68_temp.mp4 -s 1280x720 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_720p.mp4
+2026-04-18 00:15:26.936 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 720p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_720p.mp4
+2026-04-18 00:15:26.936 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码1080p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_1080p.mp4
+2026-04-18 00:15:26.936 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\06dad1c8-fb45-42cf-84c4-0422996a1c68_temp.mp4 -s 1920x1080 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_1080p.mp4
+2026-04-18 00:15:38.317 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 1080p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_3b9db6ff-287c-4684-97b5-a75f6db15ed5_1080p.mp4
+2026-04-18 00:15:39.343 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 临时文件删除成功：C:\Users\16790\Desktop\bs\XSj_H2\upload\file\06dad1c8-fb45-42cf-84c4-0422996a1c68_temp.mp4
+2026-04-18 00:20:17.414 [http-nio-8080-exec-2] INFO  com.example.XSJ.Controller.Video.UserVideo - 获取视频文件成功，enCode：VIDEO_b4a2dc8c0ad949b2，资源数量：0
+2026-04-18 00:20:45.677 [http-nio-8080-exec-1] INFO  com.example.XSJ.Controller.Video.UserVideo - 获取视频文件成功，enCode：VIDEO_b4a2dc8c0ad949b2，资源数量：1
+2026-04-18 00:25:26.389 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 视频资源落地临时文件完成：C:\Users\16790\Desktop\bs\XSj_H2\upload\file\5de011d1-7ea7-4091-bf69-78d260e7e7c6_temp.mp4
+2026-04-18 00:25:26.389 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码480p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_480p.mp4
+2026-04-18 00:25:26.389 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\5de011d1-7ea7-4091-bf69-78d260e7e7c6_temp.mp4 -s 854x480 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_480p.mp4
+2026-04-18 00:25:32.497 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 480p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_480p.mp4
+2026-04-18 00:25:32.497 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码720p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_720p.mp4
+2026-04-18 00:25:32.497 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\5de011d1-7ea7-4091-bf69-78d260e7e7c6_temp.mp4 -s 1280x720 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_720p.mp4
+2026-04-18 00:25:40.507 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 720p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_720p.mp4
+2026-04-18 00:25:40.507 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码1080p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_1080p.mp4
+2026-04-18 00:25:40.507 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\5de011d1-7ea7-4091-bf69-78d260e7e7c6_temp.mp4 -s 1920x1080 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_1080p.mp4
+2026-04-18 00:25:52.640 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 1080p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_ae612806-5ae4-45f1-ab48-a2d118530b1b_1080p.mp4
+2026-04-18 00:25:53.652 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 临时文件删除成功：C:\Users\16790\Desktop\bs\XSj_H2\upload\file\5de011d1-7ea7-4091-bf69-78d260e7e7c6_temp.mp4
+2026-04-18 00:26:43.801 [http-nio-8080-exec-2] INFO  com.example.XSJ.Controller.User.User - 开始查询首页资源数据
+2026-04-18 00:28:38.492 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 视频资源落地临时文件完成：C:\Users\16790\Desktop\bs\XSj_H2\upload\file\bbdeeb9c-f725-4687-a918-520596d922d3_temp.mp4
+2026-04-18 00:28:38.492 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码480p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_480p.mp4
+2026-04-18 00:28:38.492 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\bbdeeb9c-f725-4687-a918-520596d922d3_temp.mp4 -s 854x480 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_480p.mp4
+2026-04-18 00:28:44.144 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 480p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_480p.mp4
+2026-04-18 00:28:44.144 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码720p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_720p.mp4
+2026-04-18 00:28:44.144 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\bbdeeb9c-f725-4687-a918-520596d922d3_temp.mp4 -s 1280x720 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_720p.mp4
+2026-04-18 00:28:52.475 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 720p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_720p.mp4
+2026-04-18 00:28:52.475 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码1080p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_1080p.mp4
+2026-04-18 00:28:52.475 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\bbdeeb9c-f725-4687-a918-520596d922d3_temp.mp4 -s 1920x1080 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_1080p.mp4
+2026-04-18 00:29:05.742 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 1080p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_23141014-75cc-4154-832e-0e6c2f661b9b_1080p.mp4
+2026-04-18 00:29:06.757 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 临时文件删除成功：C:\Users\16790\Desktop\bs\XSj_H2\upload\file\bbdeeb9c-f725-4687-a918-520596d922d3_temp.mp4
+2026-04-18 00:31:02.683 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 视频资源落地临时文件完成：C:\Users\16790\Desktop\bs\XSj_H2\upload\file\84e2eac3-58ed-42fe-83df-7940ae466d97_temp.mp4
+2026-04-18 00:31:02.683 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码480p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_480p.mp4
+2026-04-18 00:31:02.683 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\84e2eac3-58ed-42fe-83df-7940ae466d97_temp.mp4 -s 854x480 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_480p.mp4
+2026-04-18 00:31:10.639 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 480p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_480p.mp4
+2026-04-18 00:31:10.639 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码720p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_720p.mp4
+2026-04-18 00:31:10.639 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\84e2eac3-58ed-42fe-83df-7940ae466d97_temp.mp4 -s 1280x720 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_720p.mp4
+2026-04-18 00:31:20.721 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 720p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_720p.mp4
+2026-04-18 00:31:20.721 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 开始转码1080p分辨率，输出路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_1080p.mp4
+2026-04-18 00:31:20.721 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 执行FFmpeg命令：C:\Users\16790\Desktop\bs\XSj_H2\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe -i C:\Users\16790\Desktop\bs\XSj_H2\upload\file\84e2eac3-58ed-42fe-83df-7940ae466d97_temp.mp4 -s 1920x1080 -c:v h264 -crf 23 -c:a aac -y C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_1080p.mp4
+2026-04-18 00:31:37.079 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 1080p分辨率转码完成，存储路径：C:\Users\16790\Desktop\bs\XSj_H2\EndFile\V_9a712592-ea17-4ac5-b3a7-54de0df76501_1080p.mp4
+2026-04-18 00:31:38.095 [http-nio-8080-exec-9] INFO  com.example.XSJ.utils.VideoTranscodeUtil - 临时文件删除成功：C:\Users\16790\Desktop\bs\XSj_H2\upload\file\84e2eac3-58ed-42fe-83df-7940ae466d97_temp.mp4
+2026-04-18 00:34:46.380 [http-nio-8080-exec-6] INFO  com.example.XSJ.Controller.User.User - 开始查询首页资源数据
+2026-04-18 00:34:49.825 [http-nio-8080-exec-9] INFO  com.example.XSJ.Controller.User.User - 开始查询首页资源数据
+2026-04-18 00:35:32.024 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-04-18 00:35:32.113 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-04-18 00:35:34.271 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-04-18 00:35:34.274 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-04-18 08:19:45.930 [main] INFO  com.alibaba.nacos.client.logging.NacosLogging - Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.logback12.LogbackNacosLoggingAdapterBuilder
+2026-04-18 08:19:45.934 [main] INFO  com.alibaba.nacos.client.logging.NacosLogging - Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.logback14.LogbackNacosLoggingAdapterBuilder
+2026-04-18 08:19:45.934 [main] INFO  com.alibaba.nacos.client.logging.NacosLogging - Nacos Logging Adapter: com.alibaba.nacos.logger.adapter.logback14.LogbackNacosLoggingAdapter match ch.qos.logback.classic.Logger success.
+2026-04-18 08:19:45.942 [main] INFO  com.alibaba.nacos.client.logging.NacosLogging - Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.log4j2.Log4j2NacosLoggingAdapterBuilder
+2026-04-18 08:19:45.948 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-04-18 08:19:46.058 [main] INFO  com.example.XSJ.XSJ_H2Application - Starting XSJ_H2Application using Java 17.0.16 with PID 30036 (C:\Users\16790\Desktop\bs\XSj_H2\XSJ_h2\target\classes started by 16790 in C:\Users\16790\Desktop\bs\XSj_H2)
+2026-04-18 08:19:46.059 [main] INFO  com.example.XSJ.XSJ_H2Application - The following 1 profile is active: "com.example.XSJ.XSJ_H2Application"
+2026-04-18 08:19:47.176 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2026-04-18 08:19:47.197 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 14 ms. Found 0 MongoDB repository interfaces.
+2026-04-18 08:19:47.575 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2026-04-18 08:19:47.575 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2026-04-18 08:19:47.997 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-04-18 08:19:48.011 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-18 08:19:48.013 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-18 08:19:48.013 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.46]
+2026-04-18 08:19:48.092 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-18 08:19:48.093 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1996 ms
+2026-04-18 08:19:48.859 [main] INFO  org.mongodb.driver.client - MongoClient with metadata {"driver": {"name": "mongo-java-driver|sync|spring-boot", "version": "5.5.1"}, "os": {"type": "Windows", "name": "Windows 11", "architecture": "amd64", "version": "10.0"}, "platform": "Java/Microsoft/17.0.16+8-LTS"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@3d73cd78], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@5b71af0d, com.mongodb.Jep395RecordCodecProvider@fb42c1c, com.mongodb.KotlinCodecProvider@4edde05c]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@42734b71], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverMonitoringMode=AUTO, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null, timeoutMS=null}
+2026-04-18 08:19:48.870 [cluster-ClusterId{value='69e2ce246278484fbbde9ab5', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, cryptd=false, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=27, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=20262300, minRoundTripTimeNanos=0}
+2026-04-18 08:19:51.606 [main] INFO  c.a.c.nacos.annotation.NacosAnnotationProcessor - [Nacos Config] Listening config for annotation: dataId=spring.ai.alibaba.configurable.prompt, group=DEFAULT_GROUP
+2026-04-18 08:19:51.617 [main] INFO  c.a.c.nacos.annotation.NacosAnnotationProcessor - [Nacos Config] register configurablePromptTemplateFactory#method#onConfigChange(List) listener on com.alibaba.cloud.ai.prompt.ConfigurablePromptTemplateFactory@5b9aac82 
+2026-04-18 08:19:52.154 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2026-04-18 08:19:52.283 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-18 08:19:52.301 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-04-18 08:19:52.356 [main] INFO  com.example.XSJ.XSJ_H2Application - Started XSJ_H2Application in 6.923 seconds (process running for 8.617)
+2026-04-18 08:19:52.824 [RMI TCP Connection(5)-10.67.230.122] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-18 08:19:52.824 [RMI TCP Connection(5)-10.67.230.122] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-04-18 08:19:52.827 [RMI TCP Connection(5)-10.67.230.122] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2026-04-18 08:19:52.962 [RMI TCP Connection(3)-10.67.230.122] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-04-18 08:19:53.588 [RMI TCP Connection(3)-10.67.230.122] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40cc6108
+2026-04-18 08:19:53.593 [RMI TCP Connection(3)-10.67.230.122] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-04-18 08:19:58.652 [http-nio-8080-exec-1] INFO  com.example.XSJ.Controller.User.User - 开始查询首页资源数据
+2026-04-18 08:23:40.810 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 从MySQL查询模型配置：modelCode=qwen3.5-plus, 配置=AiConfig(aiConfigId=AC550e8400e294944a7c8e77819c44126, modelCode=qwen3.5-plus, modelName=千问3.5, apiKey=sk-7d99f8b407354665816eab1507c68b19, baseUrl=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, model=qwen3.5-plus, status=1, createTime=2026-03-30T22:35:14, updateTime=2026-04-17T23:25:29, image=null, introduction=null, pageNum=1, pageSize=10)
+2026-04-18 08:23:40.818 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】开始构建历史消息: userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=68f814c2672d4e43ac67d1808fed25f9
+2026-04-18 08:23:40.909 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】MongoDB查询结果: 记录数=0
+2026-04-18 08:23:40.909 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 构建历史消息上下文：sessionId=68f814c2672d4e43ac67d1808fed25f9, 历史消息数=0
+2026-04-18 08:23:40.966 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 用户提问已存入MongoDB：sessionId=68f814c2672d4e43ac67d1808fed25f9, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169
+2026-04-18 08:23:40.984 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 新会话已存入MySQL：sessionId=68f814c2672d4e43ac67d1808fed25f9, title=请介绍一下你自己
+2026-04-18 08:23:40.984 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 发送给AI的消息总数: 历史消息=0, 当前消息=1, 总计=1
+2026-04-18 08:23:40.984 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 开始调用AI API: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, 平台: 其他
+2026-04-18 08:23:40.984 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 请求体: {max_tokens=2000, stream=true, temperature=0.7, messages=[{content=请介绍一下你自己, role=user}], model=qwen3.5-plus}
+2026-04-18 08:23:40.984 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - Authorization: Bearer sk-7d99f8b...
+2026-04-18 08:23:52.564 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - 收到 [DONE] 标记
+2026-04-18 08:23:52.566 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复完成，总长度: 285
+2026-04-18 08:23:52.578 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复已存入MongoDB：sessionId=68f814c2672d4e43ac67d1808fed25f9, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, content长度=285
+2026-04-18 08:23:59.778 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 从MySQL查询模型配置：modelCode=qwen-plus, 配置=AiConfig(aiConfigId=AC550e8400e294944a7c8e77819c44128, modelCode=qwen-plus, modelName=通义千问-增强版, apiKey=sk-7d99f8b407354665816eab1507c68b19, baseUrl=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, model=qwen-plus, status=1, createTime=2026-03-08T12:45:19, updateTime=2026-04-02T18:55:11, image=null, introduction=null, pageNum=1, pageSize=10)
+2026-04-18 08:23:59.779 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】开始构建历史消息: userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=23670c8b9002429f95e270fe327b5e85
+2026-04-18 08:23:59.782 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】MongoDB查询结果: 记录数=0
+2026-04-18 08:23:59.782 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 构建历史消息上下文：sessionId=23670c8b9002429f95e270fe327b5e85, 历史消息数=0
+2026-04-18 08:23:59.784 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 用户提问已存入MongoDB：sessionId=23670c8b9002429f95e270fe327b5e85, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169
+2026-04-18 08:23:59.833 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 新会话已存入MySQL：sessionId=23670c8b9002429f95e270fe327b5e85, title=请介绍一下你自己
+2026-04-18 08:23:59.834 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 发送给AI的消息总数: 历史消息=0, 当前消息=1, 总计=1
+2026-04-18 08:23:59.834 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 开始调用AI API: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, 平台: 其他
+2026-04-18 08:23:59.834 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 请求体: {max_tokens=2000, stream=true, temperature=0.7, messages=[{content=请介绍一下你自己, role=user}], model=qwen-plus}
+2026-04-18 08:23:59.834 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - Authorization: Bearer sk-7d99f8b...
+2026-04-18 08:24:08.815 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - 收到 [DONE] 标记
+2026-04-18 08:24:08.815 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复完成，总长度: 635
+2026-04-18 08:24:08.822 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复已存入MongoDB：sessionId=23670c8b9002429f95e270fe327b5e85, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, content长度=635
+2026-04-18 08:24:13.699 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 从MySQL查询模型配置：modelCode=tongyi-xiaomi-analysis-pro, 配置=AiConfig(aiConfigId=AC550e8400e294944a7c8e77819c44127, modelCode=tongyi-xiaomi-analysis-pro, modelName=通义小米, apiKey=sk-7d99f8b407354665816eab1507c68b19, baseUrl=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, model=tongyi-xiaomi-analysis-pro, status=1, createTime=2026-03-30T22:17:26, updateTime=2026-03-30T22:17:39, image=null, introduction=null, pageNum=1, pageSize=10)
+2026-04-18 08:24:13.700 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】开始构建历史消息: userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=8a0218349f3d475ca69fe77d1595d573
+2026-04-18 08:24:13.703 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】MongoDB查询结果: 记录数=0
+2026-04-18 08:24:13.703 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 构建历史消息上下文：sessionId=8a0218349f3d475ca69fe77d1595d573, 历史消息数=0
+2026-04-18 08:24:13.706 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 用户提问已存入MongoDB：sessionId=8a0218349f3d475ca69fe77d1595d573, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169
+2026-04-18 08:24:13.713 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 新会话已存入MySQL：sessionId=8a0218349f3d475ca69fe77d1595d573, title=请介绍一下你自己
+2026-04-18 08:24:13.713 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 发送给AI的消息总数: 历史消息=0, 当前消息=1, 总计=1
+2026-04-18 08:24:13.713 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 开始调用AI API: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, 平台: 其他
+2026-04-18 08:24:13.713 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 请求体: {max_tokens=2000, stream=true, temperature=0.7, messages=[{content=请介绍一下你自己, role=user}], model=tongyi-xiaomi-analysis-pro}
+2026-04-18 08:24:13.713 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - Authorization: Bearer sk-7d99f8b...
+2026-04-18 08:24:15.186 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - 收到 [DONE] 标记
+2026-04-18 08:24:15.186 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复完成，总长度: 138
+2026-04-18 08:24:15.225 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复已存入MongoDB：sessionId=8a0218349f3d475ca69fe77d1595d573, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, content长度=138
+2026-04-18 08:24:20.987 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 从MySQL查询模型配置：modelCode=tongyi-xiaomi-analysis-pro, 配置=AiConfig(aiConfigId=AC550e8400e294944a7c8e77819c44127, modelCode=tongyi-xiaomi-analysis-pro, modelName=通义小米, apiKey=sk-7d99f8b407354665816eab1507c68b19, baseUrl=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, model=tongyi-xiaomi-analysis-pro, status=1, createTime=2026-03-30T22:17:26, updateTime=2026-03-30T22:17:39, image=null, introduction=null, pageNum=1, pageSize=10)
+2026-04-18 08:24:20.988 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】开始构建历史消息: userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=8a0218349f3d475ca69fe77d1595d573
+2026-04-18 08:24:21.002 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】MongoDB查询结果: 记录数=2
+2026-04-18 08:24:21.002 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】历史消息: role=user, content前20字=请介绍一下你自己
+2026-04-18 08:24:21.002 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】历史消息: role=assistant, content前20字=我是一个人工智能助手，被设计用来回答问题
+2026-04-18 08:24:21.002 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 构建历史消息上下文：sessionId=8a0218349f3d475ca69fe77d1595d573, 历史消息数=2
+2026-04-18 08:24:21.005 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 用户提问已存入MongoDB：sessionId=8a0218349f3d475ca69fe77d1595d573, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169
+2026-04-18 08:24:21.013 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 会话时间已更新：sessionId=8a0218349f3d475ca69fe77d1595d573
+2026-04-18 08:24:21.013 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 发送给AI的消息总数: 历史消息=2, 当前消息=1, 总计=3
+2026-04-18 08:24:21.013 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 开始调用AI API: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, 平台: 其他
+2026-04-18 08:24:21.013 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 请求体: {max_tokens=2000, stream=true, temperature=0.7, messages=[{content=请介绍一下你自己, role=user}, {content=我是一个人工智能助手，被设计用来回答问题、提供信息和协助完成各种任务。我具备广泛的知识领域，可以从科学、技术、文化、历史到日常生活等各个方面提供帮助。我的目标是尽可能准确、高效地满足用户的需求，同时保持礼貌和尊重。无论是解答疑问、提供建议还是进行有趣的对话，我都乐于为你服务。, role=assistant}, {content=hao, role=user}], model=tongyi-xiaomi-analysis-pro}
+2026-04-18 08:24:21.013 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - Authorization: Bearer sk-7d99f8b...
+2026-04-18 08:24:21.892 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - 收到 [DONE] 标记
+2026-04-18 08:24:21.893 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复完成，总长度: 72
+2026-04-18 08:24:21.896 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复已存入MongoDB：sessionId=8a0218349f3d475ca69fe77d1595d573, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, content长度=72
+2026-04-18 08:24:28.224 [http-nio-8080-exec-4] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=150cf8e5c29e482eab356c7f6e78484c, 记录数=2
+2026-04-18 08:24:30.748 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=2052c6325df34aef8daaa7b4564f61ee, 记录数=2
+2026-04-18 08:24:32.185 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=23670c8b9002429f95e270fe327b5e85, 记录数=2
+2026-04-18 08:24:34.162 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=8b77eda182fc4ec381e304224542724c, 记录数=1
+2026-04-18 08:24:34.602 [http-nio-8080-exec-5] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=9b4aaffa3831409ea3e67814456a307e, 记录数=1
+2026-04-18 08:24:35.653 [http-nio-8080-exec-7] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=e3d3d21fa85248349d227ddbb42b936c, 记录数=2
+2026-04-18 08:24:37.179 [http-nio-8080-exec-10] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=fee4f7123fde4bf1b22bf0b7023ce1ca, 记录数=2
+2026-04-18 08:24:39.191 [http-nio-8080-exec-8] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=150cf8e5c29e482eab356c7f6e78484c, 记录数=2
+2026-04-18 08:24:47.088 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 从MySQL查询模型配置：modelCode=qwen3.5-plus, 配置=AiConfig(aiConfigId=AC550e8400e294944a7c8e77819c44126, modelCode=qwen3.5-plus, modelName=千问3.5, apiKey=sk-7d99f8b407354665816eab1507c68b19, baseUrl=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, model=qwen3.5-plus, status=1, createTime=2026-03-30T22:35:14, updateTime=2026-04-17T23:25:29, image=null, introduction=null, pageNum=1, pageSize=10)
+2026-04-18 08:24:47.089 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】开始构建历史消息: userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=79013648577844c2b6c6d6e2daf1b489
+2026-04-18 08:24:47.093 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】MongoDB查询结果: 记录数=0
+2026-04-18 08:24:47.093 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 构建历史消息上下文：sessionId=79013648577844c2b6c6d6e2daf1b489, 历史消息数=0
+2026-04-18 08:24:47.095 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 用户提问已存入MongoDB：sessionId=79013648577844c2b6c6d6e2daf1b489, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169
+2026-04-18 08:24:47.135 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 新会话已存入MySQL：sessionId=79013648577844c2b6c6d6e2daf1b489, title=请介绍一下你自己
+2026-04-18 08:24:47.135 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 发送给AI的消息总数: 历史消息=0, 当前消息=1, 总计=1
+2026-04-18 08:24:47.136 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 开始调用AI API: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, 平台: 其他
+2026-04-18 08:24:47.136 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - 请求体: {max_tokens=2000, stream=true, temperature=0.7, messages=[{content=请介绍一下你自己, role=user}], model=qwen3.5-plus}
+2026-04-18 08:24:47.136 [http-nio-8080-exec-1] INFO  com.example.XSJ.service.Ai.AiChatService - Authorization: Bearer sk-7d99f8b...
+2026-04-18 08:24:57.451 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - 收到 [DONE] 标记
+2026-04-18 08:24:57.451 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复完成，总长度: 374
+2026-04-18 08:24:57.492 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复已存入MongoDB：sessionId=79013648577844c2b6c6d6e2daf1b489, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, content长度=374
+2026-04-18 08:25:02.389 [http-nio-8080-exec-2] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=79013648577844c2b6c6d6e2daf1b489, 记录数=2
+2026-04-18 08:25:03.540 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=6ff2fa456d034193b967282f5cf4ce58, 记录数=2
+2026-04-18 08:25:06.126 [http-nio-8080-exec-9] INFO  com.example.XSJ.service.Ai.AiChatService - 查询会话历史：userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=150cf8e5c29e482eab356c7f6e78484c, 记录数=2
+2026-04-18 08:25:19.945 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 从MySQL查询模型配置：modelCode=qwen3.5-plus, 配置=AiConfig(aiConfigId=AC550e8400e294944a7c8e77819c44126, modelCode=qwen3.5-plus, modelName=千问3.5, apiKey=sk-7d99f8b407354665816eab1507c68b19, baseUrl=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, model=qwen3.5-plus, status=1, createTime=2026-03-30T22:35:14, updateTime=2026-04-17T23:25:29, image=null, introduction=null, pageNum=1, pageSize=10)
+2026-04-18 08:25:19.947 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】开始构建历史消息: userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=c956ab652bf14d0c83a071a990ee3d85
+2026-04-18 08:25:19.951 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】MongoDB查询结果: 记录数=0
+2026-04-18 08:25:19.951 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 构建历史消息上下文：sessionId=c956ab652bf14d0c83a071a990ee3d85, 历史消息数=0
+2026-04-18 08:25:19.954 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 用户提问已存入MongoDB：sessionId=c956ab652bf14d0c83a071a990ee3d85, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169
+2026-04-18 08:25:20.009 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 新会话已存入MySQL：sessionId=c956ab652bf14d0c83a071a990ee3d85, title=你是谁
+2026-04-18 08:25:20.009 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 发送给AI的消息总数: 历史消息=0, 当前消息=1, 总计=1
+2026-04-18 08:25:20.009 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 开始调用AI API: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, 平台: 其他
+2026-04-18 08:25:20.009 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - 请求体: {max_tokens=2000, stream=true, temperature=0.7, messages=[{content=你是谁, role=user}], model=qwen3.5-plus}
+2026-04-18 08:25:20.009 [http-nio-8080-exec-6] INFO  com.example.XSJ.service.Ai.AiChatService - Authorization: Bearer sk-7d99f8b...
+2026-04-18 08:25:27.526 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - 收到 [DONE] 标记
+2026-04-18 08:25:27.526 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复完成，总长度: 206
+2026-04-18 08:25:27.530 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复已存入MongoDB：sessionId=c956ab652bf14d0c83a071a990ee3d85, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, content长度=206
+2026-04-18 08:25:36.107 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 从MySQL查询模型配置：modelCode=qwen3.5-plus, 配置=AiConfig(aiConfigId=AC550e8400e294944a7c8e77819c44126, modelCode=qwen3.5-plus, modelName=千问3.5, apiKey=sk-7d99f8b407354665816eab1507c68b19, baseUrl=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, model=qwen3.5-plus, status=1, createTime=2026-03-30T22:35:14, updateTime=2026-04-17T23:25:29, image=null, introduction=null, pageNum=1, pageSize=10)
+2026-04-18 08:25:36.108 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】开始构建历史消息: userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=c956ab652bf14d0c83a071a990ee3d85
+2026-04-18 08:25:36.112 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】MongoDB查询结果: 记录数=2
+2026-04-18 08:25:36.112 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】历史消息: role=user, content前20字=你是谁
+2026-04-18 08:25:36.112 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】历史消息: role=assistant, content前20字=你好！我是 **Qwen3.5**，阿里
+2026-04-18 08:25:36.112 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 构建历史消息上下文：sessionId=c956ab652bf14d0c83a071a990ee3d85, 历史消息数=2
+2026-04-18 08:25:36.114 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 用户提问已存入MongoDB：sessionId=c956ab652bf14d0c83a071a990ee3d85, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169
+2026-04-18 08:25:36.121 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 会话时间已更新：sessionId=c956ab652bf14d0c83a071a990ee3d85
+2026-04-18 08:25:36.121 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 发送给AI的消息总数: 历史消息=2, 当前消息=1, 总计=3
+2026-04-18 08:25:36.121 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 开始调用AI API: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, 平台: 其他
+2026-04-18 08:25:36.121 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 请求体: {max_tokens=2000, stream=true, temperature=0.7, messages=[{content=你是谁, role=user}, {content=你好！我是 **Qwen3.5**，阿里巴巴最新推出的通义千问大语言模型。我支持 **100 多种语言**，拥有 **256K 超长上下文窗口**，知识截止到 **2026 年**。相比之前的版本，我在逻辑推理、代码生成、多模态处理（如图表/公式解析）以及长文档理解等方面都有显著升级。
+
+无论是写故事、写公文、写邮件、写剧本，还是解答数学题、编程、分析图表，我都能尽力帮你完成。需要什么帮助？尽管告诉我！ 😊, role=assistant}, {content=回答我下面的问题, role=user}], model=qwen3.5-plus}
+2026-04-18 08:25:36.121 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - Authorization: Bearer sk-7d99f8b...
+2026-04-18 08:25:44.280 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - 收到 [DONE] 标记
+2026-04-18 08:25:44.280 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复完成，总长度: 80
+2026-04-18 08:25:44.286 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复已存入MongoDB：sessionId=c956ab652bf14d0c83a071a990ee3d85, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, content长度=80
+2026-04-18 08:26:34.147 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-04-18 08:26:34.222 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-04-18 08:26:36.347 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2026-04-18 08:26:36.352 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2026-04-18 08:47:19.796 [main] INFO  com.alibaba.nacos.client.logging.NacosLogging - Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.logback12.LogbackNacosLoggingAdapterBuilder
+2026-04-18 08:47:19.803 [main] INFO  com.alibaba.nacos.client.logging.NacosLogging - Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.logback14.LogbackNacosLoggingAdapterBuilder
+2026-04-18 08:47:19.806 [main] INFO  com.alibaba.nacos.client.logging.NacosLogging - Nacos Logging Adapter: com.alibaba.nacos.logger.adapter.logback14.LogbackNacosLoggingAdapter match ch.qos.logback.classic.Logger success.
+2026-04-18 08:47:19.821 [main] INFO  com.alibaba.nacos.client.logging.NacosLogging - Nacos Logging Adapter Builder: com.alibaba.nacos.logger.adapter.log4j2.Log4j2NacosLoggingAdapterBuilder
+2026-04-18 08:47:19.838 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.3.Final
+2026-04-18 08:47:20.095 [main] INFO  com.example.XSJ.XSJ_H2Application - Starting XSJ_H2Application using Java 17.0.16 with PID 57992 (C:\Users\16790\Desktop\bs\XSj_H2\XSJ_h2\target\classes started by 16790 in C:\Users\16790\Desktop\bs\XSj_H2)
+2026-04-18 08:47:20.098 [main] INFO  com.example.XSJ.XSJ_H2Application - The following 1 profile is active: "com.example.XSJ.XSJ_H2Application"
+2026-04-18 08:47:22.915 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2026-04-18 08:47:22.955 [main] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 29 ms. Found 0 MongoDB repository interfaces.
+2026-04-18 08:47:23.523 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.impl.NacosClientAuthServiceImpl success.
+2026-04-18 08:47:23.523 [main] INFO  c.a.n.p.auth.spi.client.ClientAuthPluginManager - [ClientAuthPluginManager] Load ClientAuthService com.alibaba.nacos.client.auth.ram.RamClientAuthServiceImpl success.
+2026-04-18 08:47:24.459 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2026-04-18 08:47:24.483 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2026-04-18 08:47:24.485 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-04-18 08:47:24.485 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.46]
+2026-04-18 08:47:24.597 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-04-18 08:47:24.597 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4407 ms
+2026-04-18 08:47:25.750 [main] INFO  org.mongodb.driver.client - MongoClient with metadata {"driver": {"name": "mongo-java-driver|sync|spring-boot", "version": "5.5.1"}, "os": {"type": "Windows", "name": "Windows 11", "architecture": "amd64", "version": "10.0"}, "platform": "Java/Microsoft/17.0.16+8-LTS"} created with settings MongoClientSettings{readPreference=primary, writeConcern=WriteConcern{w=null, wTimeout=null ms, journal=null}, retryWrites=true, retryReads=true, readConcern=ReadConcern{level=null}, credential=null, transportSettings=null, commandListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsCommandListener@2ec156fb], codecRegistry=ProvidersCodecRegistry{codecProviders=[ValueCodecProvider{}, BsonValueCodecProvider{}, DBRefCodecProvider{}, DBObjectCodecProvider{}, DocumentCodecProvider{}, CollectionCodecProvider{}, IterableCodecProvider{}, MapCodecProvider{}, GeoJsonCodecProvider{}, GridFSFileCodecProvider{}, Jsr310CodecProvider{}, JsonObjectCodecProvider{}, BsonCodecProvider{}, EnumCodecProvider{}, com.mongodb.client.model.mql.ExpressionCodecProvider@627d5f1, com.mongodb.Jep395RecordCodecProvider@105fe81e, com.mongodb.KotlinCodecProvider@af94b0b]}, loggerSettings=LoggerSettings{maxDocumentLength=1000}, clusterSettings={hosts=[localhost:27017], srvServiceName=mongodb, mode=SINGLE, requiredClusterType=UNKNOWN, requiredReplicaSetName='null', serverSelector='null', clusterListeners='[]', serverSelectionTimeout='30000 ms', localThreshold='15 ms'}, socketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=0, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, heartbeatSocketSettings=SocketSettings{connectTimeoutMS=10000, readTimeoutMS=10000, receiveBufferSize=0, proxySettings=ProxySettings{host=null, port=null, username=null, password=null}}, connectionPoolSettings=ConnectionPoolSettings{maxSize=100, minSize=0, maxWaitTimeMS=120000, maxConnectionLifeTimeMS=0, maxConnectionIdleTimeMS=0, maintenanceInitialDelayMS=0, maintenanceFrequencyMS=60000, connectionPoolListeners=[io.micrometer.core.instrument.binder.mongodb.MongoMetricsConnectionPoolListener@45cf0c15], maxConnecting=2}, serverSettings=ServerSettings{heartbeatFrequencyMS=10000, minHeartbeatFrequencyMS=500, serverMonitoringMode=AUTO, serverListeners='[]', serverMonitorListeners='[]'}, sslSettings=SslSettings{enabled=false, invalidHostNameAllowed=false, context=null}, applicationName='null', compressorList=[], uuidRepresentation=JAVA_LEGACY, serverApi=null, autoEncryptionSettings=null, dnsClient=null, inetAddressResolver=null, contextProvider=null, timeoutMS=null}
+2026-04-18 08:47:25.765 [cluster-ClusterId{value='69e2d49d3adb9eace5fb738e', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, cryptd=false, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=27, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=29610500, minRoundTripTimeNanos=0}
+2026-04-18 08:47:29.960 [main] INFO  c.a.c.nacos.annotation.NacosAnnotationProcessor - [Nacos Config] Listening config for annotation: dataId=spring.ai.alibaba.configurable.prompt, group=DEFAULT_GROUP
+2026-04-18 08:47:29.978 [main] INFO  c.a.c.nacos.annotation.NacosAnnotationProcessor - [Nacos Config] register configurablePromptTemplateFactory#method#onConfigChange(List) listener on com.alibaba.cloud.ai.prompt.ConfigurablePromptTemplateFactory@6289376f 
+2026-04-18 08:47:30.438 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 1 endpoint beneath base path '/actuator'
+2026-04-18 08:47:30.546 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2026-04-18 08:47:30.561 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2026-04-18 08:47:30.607 [main] INFO  com.example.XSJ.XSJ_H2Application - Started XSJ_H2Application in 12.152 seconds (process running for 15.399)
+2026-04-18 08:47:48.443 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-18 08:47:48.443 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-04-18 08:47:48.446 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2026-04-18 08:47:48.509 [http-nio-8080-exec-2] INFO  com.example.XSJ.Controller.User.User - 开始查询首页资源数据
+2026-04-18 08:47:48.547 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-04-18 08:47:48.879 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3796085f
+2026-04-18 08:47:48.886 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2026-04-18 08:47:56.293 [http-nio-8080-exec-4] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱15031879859@163.com的验证码831604已缓存，有效期五分钟
+2026-04-18 08:47:57.599 [http-nio-8080-exec-4] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱15031879859@163.com的验证码发送成功
+2026-04-18 08:48:38.488 [http-nio-8080-exec-5] INFO  com.example.XSJ.Controller.User.User - 开始查询首页资源数据
+2026-04-18 09:33:12.653 [http-nio-8080-exec-6] INFO  com.example.XSJ.Controller.User.User - 开始查询首页资源数据
+2026-04-18 09:33:47.661 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱1679002571@qq.com的验证码792117已缓存，有效期五分钟
+2026-04-18 09:33:49.192 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱1679002571@qq.com的验证码发送成功
+2026-04-18 09:34:04.283 [http-nio-8080-exec-3] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱1679002571@qq.com的验证码验证成功，已删除缓存
+2026-04-18 09:41:00.189 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 正在处理第 1 页，本批次 54 条视频
+2026-04-18 09:41:00.226 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL005f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.241 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL004f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.255 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL003f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.270 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL002f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.283 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL001f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.304 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB005f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.317 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB004f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.330 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB003f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.342 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB002f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.355 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB001f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.369 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL005f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.383 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL004f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.400 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL003f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.417 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL002f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.459 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL001f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.481 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB005f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.497 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB004f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.522 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB003f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.537 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB002f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.557 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB001f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 09:41:00.571 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB005f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 09:41:00.586 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB004f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 09:41:00.599 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB003f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 09:41:00.613 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB002f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 09:41:00.628 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB001f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 09:41:00.642 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe2720ce7f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.658 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe27129caf03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.677 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe26e5109f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 09:41:00.695 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL005f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.714 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL004f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.733 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL003f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.748 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL002f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.764 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL001f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.787 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB005f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.800 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB004f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.813 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB003f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.825 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB002f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.843 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB001f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 09:41:00.846 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - ==============================
+2026-04-18 09:41:00.846 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 任务完成！总处理视频数：54
+2026-04-18 09:41:00.846 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - ==============================
+2026-04-18 09:41:10.127 [http-nio-8080-exec-5] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱1679002571@163.com的验证码245817已缓存，有效期五分钟
+2026-04-18 09:41:11.382 [http-nio-8080-exec-5] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱1679002571@163.com的验证码发送成功
+2026-04-18 09:42:08.986 [http-nio-8080-exec-10] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱15031879859@163.com的验证码340829已缓存，有效期五分钟
+2026-04-18 09:42:10.179 [http-nio-8080-exec-10] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱15031879859@163.com的验证码发送成功
+2026-04-18 09:42:28.969 [http-nio-8080-exec-2] INFO  com.example.XSJ.utils.EmailVerifyUtils - 邮箱15031879859@163.com的验证码验证成功，已删除缓存
+2026-04-18 09:43:41.912 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 从MySQL查询模型配置：modelCode=qwen3.5-plus, 配置=AiConfig(aiConfigId=AC550e8400e294944a7c8e77819c44126, modelCode=qwen3.5-plus, modelName=千问3.5, apiKey=sk-7d99f8b407354665816eab1507c68b19, baseUrl=https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, model=qwen3.5-plus, status=1, createTime=2026-03-30T22:35:14, updateTime=2026-04-17T23:25:29, image=null, introduction=null, pageNum=1, pageSize=10)
+2026-04-18 09:43:41.921 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】开始构建历史消息: userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, sessionId=3c71d00175b9416dac9031c0024bbffb
+2026-04-18 09:43:42.062 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 【调试】MongoDB查询结果: 记录数=0
+2026-04-18 09:43:42.062 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 构建历史消息上下文：sessionId=3c71d00175b9416dac9031c0024bbffb, 历史消息数=0
+2026-04-18 09:43:42.121 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 用户提问已存入MongoDB：sessionId=3c71d00175b9416dac9031c0024bbffb, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169
+2026-04-18 09:43:42.133 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 新会话已存入MySQL：sessionId=3c71d00175b9416dac9031c0024bbffb, title=请介绍一下你自己
+2026-04-18 09:43:42.133 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 发送给AI的消息总数: 历史消息=0, 当前消息=1, 总计=1
+2026-04-18 09:43:42.133 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 开始调用AI API: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions, 平台: 其他
+2026-04-18 09:43:42.133 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - 请求体: {max_tokens=2000, stream=true, temperature=0.7, messages=[{role=user, content=请介绍一下你自己}], model=qwen3.5-plus}
+2026-04-18 09:43:42.133 [http-nio-8080-exec-3] INFO  com.example.XSJ.service.Ai.AiChatService - Authorization: Bearer sk-7d99f8b...
+2026-04-18 09:44:10.926 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - 收到 [DONE] 标记
+2026-04-18 09:44:10.926 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复完成，总长度: 1156
+2026-04-18 09:44:10.947 [reactor-http-nio-3] INFO  com.example.XSJ.service.Ai.AiChatService - AI回复已存入MongoDB：sessionId=3c71d00175b9416dac9031c0024bbffb, userId=UI0ac94494-8d7f-4f92-84bf-2167bb9af169, content长度=1156
+2026-04-18 12:14:02.754 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-04-18 12:14:02.784 [scheduling-1] INFO  com.example.XSJ.Controller.UserInterestSchedule - 用户 UI8bba3e20-8623-4f78-8790-20075ed295a8 最终兴趣：{"其他":100}
+2026-04-18 12:14:02.787 [scheduling-1] INFO  com.example.XSJ.Controller.UserInterestSchedule - 用户 UIa605859e-8d36-40d4-a115-7afc37d0215f 无观看记录
+2026-04-18 12:14:02.793 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 正在处理第 1 页，本批次 54 条视频
+2026-04-18 12:14:02.809 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL005f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.820 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL004f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.831 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL003f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.841 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL002f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.854 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgL001f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.869 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB005f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.881 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB004f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.892 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB003f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.905 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB002f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.917 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VProgB001f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:02.932 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL005f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:02.949 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL004f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:02.965 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL003f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:02.980 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL002f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:02.994 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicL001f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:03.030 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB005f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:03.031 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-04-18 12:14:03.218 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB004f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:03.241 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB003f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:03.260 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB002f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:03.276 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VMusicB001f03611f09c1ba0ad9f1dc9fb 进入新池：Po233f4002-f04a-11f0-9c1b-a0ad9f1dc9fb
+2026-04-18 12:14:03.294 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB005f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 12:14:03.313 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB004f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 12:14:03.333 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB003f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 12:14:03.350 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB002f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 12:14:03.368 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VGaoKaoB001f03611f09c1ba0ad9f1dc9fd 进入新池：Po233f6002-f04a-11f0-9c1b-a0ad9f1dc9fd
+2026-04-18 12:14:03.386 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe2720ce7f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:03.404 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe27129caf03611f09c1ba0ad9f1dc9fa 进入新池：Po233f3576-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:03.426 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VDe26e5109f03611f09c1ba0ad9f1dc9fa 进入新池：Po233f327c-f04a-11f0-9c1b-a0ad9f1dc9fa
+2026-04-18 12:14:03.446 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL005f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.469 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL004f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.494 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL003f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.513 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL002f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.534 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtL001f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.560 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB005f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.579 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB004f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.598 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB003f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.615 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB002f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.652 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 视频 VArtB001f03611f09c1ba0ad9f1dc9fc 进入新池：Po233f5002-f04a-11f0-9c1b-a0ad9f1dc9fc
+2026-04-18 12:14:03.656 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - ==============================
+2026-04-18 12:14:03.656 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - 任务完成！总处理视频数：54
+2026-04-18 12:14:03.656 [scheduling-1] INFO  c.example.XSJ.Controller.VideoScoreCalculateTask - ==============================

@@ -1,0 +1,393 @@
+2026-04-12 00:35:50.282 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Start destroying Publisher
+2026-04-12 00:35:50.282 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Start destroying common HttpClient
+2026-04-12 00:35:50.282 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Start destroying ThreadPool
+2026-04-12 00:35:50.284 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Destruction of the end
+2026-04-12 00:35:50.284 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Destruction of the end
+2026-04-12 00:35:50.285 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Destruction of the end
+2026-04-12 14:18:40.404 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.alibaba.cloud.nacos.NacosConfigAutoConfiguration' of type [com.alibaba.cloud.nacos.NacosConfigAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosAnnotationProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2026-04-12 14:18:40.408 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigProperties' of type [com.alibaba.cloud.nacos.NacosConfigProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 14:18:40.467 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigManager' of type [com.alibaba.cloud.nacos.NacosConfigManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 14:18:44.337 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'forget:pwd:email:code' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 14:18:44.338 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'login' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 14:18:44.338 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'register' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 14:23:17.632 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 14:23:17.633 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 14:26:24.394 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.EmailVerifyUtils - 邮箱2857243775@qq.com的验证码验证失败，输入：036698，实际：140299
+2026-04-12 14:27:00.772 [http-nio-8080-exec-10] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:00.773 [http-nio-8080-exec-10] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:00.774 [http-nio-8080-exec-10] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:00.775 [http-nio-8080-exec-10] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:03.609 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:03.610 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:03.611 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:03.612 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:05.480 [http-nio-8080-exec-9] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:05.482 [http-nio-8080-exec-9] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:05.482 [http-nio-8080-exec-9] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:27:05.482 [http-nio-8080-exec-9] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:33:58.091 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 14:33:58.091 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 14:33:59.937 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 14:33:59.937 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 14:34:07.114 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 14:34:07.114 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 14:40:59.961 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:40:59.963 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:40:59.964 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:40:59.966 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.017 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.018 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.019 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.020 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.173 [http-nio-8080-exec-3] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.173 [http-nio-8080-exec-3] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.175 [http-nio-8080-exec-3] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.177 [http-nio-8080-exec-3] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.223 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.225 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.226 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:41:00.228 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:43:31.811 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:43:31.812 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:43:31.813 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:43:31.814 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:44:11.794 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:44:11.795 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:44:11.795 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:44:11.795 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:50:44.667 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:50:44.667 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:50:44.669 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:50:44.670 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 14:57:15.829 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 14:57:15.831 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 14:57:15.832 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 14:57:15.832 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:10:30.533 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:10:30.533 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:10:30.534 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:10:30.534 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:10:31.810 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:10:31.810 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:10:31.811 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:10:31.811 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:23:24.635 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:23:24.636 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:23:24.636 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:23:24.637 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:33:05.430 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:33:05.431 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:33:05.431 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:33:05.431 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:34:27.363 [http-nio-8080-exec-3] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:34:27.364 [http-nio-8080-exec-3] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:34:27.364 [http-nio-8080-exec-3] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:34:27.365 [http-nio-8080-exec-3] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:34:33.368 [http-nio-8080-exec-10] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:34:33.369 [http-nio-8080-exec-10] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:34:33.370 [http-nio-8080-exec-10] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:34:33.370 [http-nio-8080-exec-10] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:36:43.233 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:36:43.234 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:36:43.234 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:36:43.235 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:40:34.579 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:40:34.579 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:40:34.580 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:40:34.581 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:40:40.020 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:40:40.021 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:40:40.022 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:40:40.022 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:41:35.469 [http-nio-8080-exec-7] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:41:35.470 [http-nio-8080-exec-7] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:41:35.470 [http-nio-8080-exec-7] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:41:35.471 [http-nio-8080-exec-7] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:41:54.551 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 15:41:54.551 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 15:48:29.032 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:48:29.034 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:48:29.035 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:48:29.035 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:12.505 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:12.506 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:12.506 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:12.507 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:14.069 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:14.069 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:14.070 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:14.070 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:15.850 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:15.851 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:15.851 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:56:15.852 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:57:09.517 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 15:57:09.517 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 15:57:53.988 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:57:53.988 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:57:53.989 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:57:53.989 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:57:58.999 [http-nio-8080-exec-9] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:57:58.999 [http-nio-8080-exec-9] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:57:59.001 [http-nio-8080-exec-9] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:57:59.002 [http-nio-8080-exec-9] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 15:58:59.888 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 15:58:59.888 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 15:59:19.914 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 15:59:19.915 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 15:59:19.916 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 15:59:19.916 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:05:23.662 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 16:05:23.663 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 16:05:23.665 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 16:05:23.666 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:05:27.242 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 16:05:27.242 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 16:07:57.034 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Start destroying ThreadPool
+2026-04-12 16:07:57.034 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Start destroying Publisher
+2026-04-12 16:07:57.034 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Destruction of the end
+2026-04-12 16:07:57.034 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Start destroying common HttpClient
+2026-04-12 16:07:57.034 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Destruction of the end
+2026-04-12 16:07:57.037 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Destruction of the end
+2026-04-12 16:08:09.056 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.alibaba.cloud.nacos.NacosConfigAutoConfiguration' of type [com.alibaba.cloud.nacos.NacosConfigAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosAnnotationProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2026-04-12 16:08:09.065 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigProperties' of type [com.alibaba.cloud.nacos.NacosConfigProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 16:08:09.160 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigManager' of type [com.alibaba.cloud.nacos.NacosConfigManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 16:08:14.812 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'forget:pwd:email:code' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:08:14.813 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'login' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:08:14.814 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'register' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:08:16.151 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 16:08:16.154 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 16:08:16.157 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 16:08:16.159 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:08:20.318 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 16:08:20.318 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 16:09:10.964 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Start destroying common HttpClient
+2026-04-12 16:09:10.964 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Start destroying ThreadPool
+2026-04-12 16:09:10.964 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Start destroying Publisher
+2026-04-12 16:09:10.965 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Destruction of the end
+2026-04-12 16:09:10.965 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Destruction of the end
+2026-04-12 16:09:10.965 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Destruction of the end
+2026-04-12 16:09:29.599 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.alibaba.cloud.nacos.NacosConfigAutoConfiguration' of type [com.alibaba.cloud.nacos.NacosConfigAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosAnnotationProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2026-04-12 16:09:29.610 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigProperties' of type [com.alibaba.cloud.nacos.NacosConfigProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 16:09:29.713 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigManager' of type [com.alibaba.cloud.nacos.NacosConfigManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 16:09:31.075 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.alibaba.cloud.nacos.NacosConfigAutoConfiguration' of type [com.alibaba.cloud.nacos.NacosConfigAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosAnnotationProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2026-04-12 16:09:31.081 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigProperties' of type [com.alibaba.cloud.nacos.NacosConfigProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 16:09:31.171 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigManager' of type [com.alibaba.cloud.nacos.NacosConfigManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 16:09:36.202 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'forget:pwd:email:code' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:36.202 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'login' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:36.202 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'register' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:36.303 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'forget:pwd:email:code' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:36.304 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'login' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:36.304 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'register' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:37.868 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Start destroying ThreadPool
+2026-04-12 16:09:37.868 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Start destroying common HttpClient
+2026-04-12 16:09:37.868 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Start destroying Publisher
+2026-04-12 16:09:37.868 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Start destroying Publisher
+2026-04-12 16:09:37.868 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Start destroying ThreadPool
+2026-04-12 16:09:37.868 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Destruction of the end
+2026-04-12 16:09:37.868 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Start destroying common HttpClient
+2026-04-12 16:09:37.868 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Destruction of the end
+2026-04-12 16:09:37.870 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Destruction of the end
+2026-04-12 16:09:37.870 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Destruction of the end
+2026-04-12 16:09:37.870 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Destruction of the end
+2026-04-12 16:09:37.870 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Destruction of the end
+2026-04-12 16:09:37.874 [main] WARN  o.s.context.support.DefaultLifecycleProcessor - Failed to stop bean 'reactorResourceFactory'
+reactor.core.Exceptions$ReactiveException: java.lang.InterruptedException
+	at reactor.core.Exceptions.propagate(Exceptions.java:410)
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:96)
+	at reactor.core.publisher.Mono.block(Mono.java:1779)
+	at org.springframework.http.client.ReactorResourceFactory.stop(ReactorResourceFactory.java:298)
+	at org.springframework.context.SmartLifecycle.stop(SmartLifecycle.java:120)
+	at org.springframework.context.support.DefaultLifecycleProcessor.doStop(DefaultLifecycleProcessor.java:463)
+	at org.springframework.context.support.DefaultLifecycleProcessor$LifecycleGroup.stop(DefaultLifecycleProcessor.java:618)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.context.support.DefaultLifecycleProcessor.stopBeans(DefaultLifecycleProcessor.java:432)
+	at org.springframework.context.support.DefaultLifecycleProcessor.onRefresh(DefaultLifecycleProcessor.java:315)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:1006)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:630)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.XSJ.XSJ_H2Application.main(XSJ_H2Application.java:12)
+Caused by: java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquireSharedInterruptibly(AbstractQueuedSynchronizer.java:1048)
+	at java.base/java.util.concurrent.CountDownLatch.await(CountDownLatch.java:230)
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:91)
+	... 17 common frames omitted
+2026-04-12 16:09:37.874 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2026-04-12 16:09:37.881 [main] WARN  o.s.beans.factory.support.DisposableBeanAdapter - Invocation of close method failed on bean with name 'mongo'
+com.mongodb.MongoInterruptedException: Interrupted waiting for lock
+	at com.mongodb.internal.thread.InterruptionUtil.interruptAndCreateMongoInterruptedException(InterruptionUtil.java:41)
+	at com.mongodb.internal.Locks.lockInterruptibly(Locks.java:92)
+	at com.mongodb.internal.Locks.checkedWithInterruptibleLock(Locks.java:80)
+	at com.mongodb.internal.Locks.withInterruptibleLock(Locks.java:75)
+	at com.mongodb.internal.Locks.withInterruptibleLock(Locks.java:68)
+	at com.mongodb.internal.connection.BaseCluster.withLock(BaseCluster.java:252)
+	at com.mongodb.internal.connection.SingleServerCluster.withLock(SingleServerCluster.java:47)
+	at com.mongodb.internal.connection.BaseCluster.stopWaitQueueHandler(BaseCluster.java:487)
+	at com.mongodb.internal.connection.BaseCluster.close(BaseCluster.java:214)
+	at com.mongodb.internal.connection.SingleServerCluster.close(SingleServerCluster.java:85)
+	at com.mongodb.client.internal.MongoClientImpl.close(MongoClientImpl.java:122)
+	at org.springframework.beans.factory.support.DisposableBeanAdapter.destroy(DisposableBeanAdapter.java:233)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroyBean(DefaultSingletonBeanRegistry.java:798)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingleton(DefaultSingletonBeanRegistry.java:748)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingleton(DefaultListableBeanFactory.java:1489)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.destroySingletons(DefaultSingletonBeanRegistry.java:707)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.destroySingletons(DefaultListableBeanFactory.java:1482)
+	at org.springframework.context.support.AbstractApplicationContext.destroyBeans(AbstractApplicationContext.java:1219)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:640)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1361)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1350)
+	at com.example.XSJ.XSJ_H2Application.main(XSJ_H2Application.java:12)
+Caused by: java.lang.InterruptedException: null
+	at java.base/java.util.concurrent.locks.ReentrantLock$Sync.lockInterruptibly(ReentrantLock.java:159)
+	at java.base/java.util.concurrent.locks.ReentrantLock.lockInterruptibly(ReentrantLock.java:372)
+	at com.mongodb.internal.Locks.lockInterruptibly(Locks.java:90)
+	... 24 common frames omitted
+2026-04-12 16:09:44.199 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.alibaba.cloud.nacos.NacosConfigAutoConfiguration' of type [com.alibaba.cloud.nacos.NacosConfigAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosAnnotationProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2026-04-12 16:09:44.207 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigProperties' of type [com.alibaba.cloud.nacos.NacosConfigProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 16:09:44.296 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigManager' of type [com.alibaba.cloud.nacos.NacosConfigManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 16:09:49.282 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'forget:pwd:email:code' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:49.283 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'login' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:49.283 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'register' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 16:09:51.482 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 16:09:51.490 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 16:09:51.492 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 16:09:51.493 [http-nio-8080-exec-4] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:09:57.100 [http-nio-8080-exec-8] WARN  org.apache.catalina.util.SessionIdGeneratorBase - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [146] milliseconds.
+2026-04-12 16:09:57.782 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 16:09:57.782 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 16:11:02.574 [http-nio-8080-exec-2] WARN  com.example.XSJ.utils.EmailVerifyUtils - 邮箱2857243775@qq.com的验证码验证失败，输入：722165，实际：722156
+2026-04-12 16:11:07.174 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 16:11:07.174 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 16:14:32.279 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 16:14:32.282 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 16:14:32.283 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 16:14:32.284 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:14:45.992 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 16:14:45.993 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 16:14:45.993 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 16:14:45.995 [http-nio-8080-exec-8] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:19:02.930 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 16:19:02.932 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 16:19:02.932 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 16:19:02.934 [http-nio-8080-exec-6] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:19:24.762 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 16:19:24.764 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 16:19:24.766 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 16:19:24.767 [http-nio-8080-exec-5] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:20:17.809 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 数字绘画类型下无有效池ID，跳过该类型处理
+2026-04-12 16:20:17.810 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 其他类型下无有效池ID，跳过该类型处理
+2026-04-12 16:20:17.810 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - 视频剪辑类型下无有效池ID，跳过该类型处理
+2026-04-12 16:20:17.811 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.Video.VideoGet - Python编程类型下无有效池ID，跳过该类型处理
+2026-04-12 16:23:32.735 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 16:23:32.736 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:25:26.759 [http-nio-8080-exec-6] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:25:26.760 [http-nio-8080-exec-6] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:25:30.713 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:25:30.713 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:25:37.269 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:25:37.270 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:08.100 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:08.101 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:08.272 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:08.272 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:09.415 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:09.415 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:15.308 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:15.309 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:15.778 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:15.778 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:15.910 [http-nio-8080-exec-5] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:15.910 [http-nio-8080-exec-5] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:16.118 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:16.118 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:19.839 [http-nio-8080-exec-6] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:19.839 [http-nio-8080-exec-6] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:23.661 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:23.661 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:24.034 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:24.034 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:26:26.433 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:26:26.433 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:27:27.739 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:27:27.739 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 17:49:40.617 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Start destroying Publisher
+2026-04-12 17:49:40.617 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Start destroying common HttpClient
+2026-04-12 17:49:40.617 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Start destroying ThreadPool
+2026-04-12 17:49:40.617 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Destruction of the end
+2026-04-12 17:49:40.618 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Destruction of the end
+2026-04-12 17:49:40.619 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Destruction of the end
+2026-04-12 17:49:46.081 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.alibaba.cloud.nacos.NacosConfigAutoConfiguration' of type [com.alibaba.cloud.nacos.NacosConfigAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosAnnotationProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2026-04-12 17:49:46.084 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigProperties' of type [com.alibaba.cloud.nacos.NacosConfigProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 17:49:46.146 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigManager' of type [com.alibaba.cloud.nacos.NacosConfigManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 17:49:49.679 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'forget:pwd:email:code' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 17:49:49.679 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'login' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 17:49:49.679 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'register' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 17:57:38.047 [http-nio-8080-exec-5] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 17:57:38.048 [http-nio-8080-exec-5] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 18:00:58.245 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 18:00:58.245 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 18:04:40.026 [http-nio-8080-exec-6] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Numeric value (9007199254740991) out of range of int (-2147483648 - 2147483647)]
+2026-04-12 18:04:44.113 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Numeric value (9007199254740991) out of range of int (-2147483648 - 2147483647)]
+2026-04-12 18:04:44.317 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Numeric value (9007199254740991) out of range of int (-2147483648 - 2147483647)]
+2026-04-12 18:04:44.499 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Numeric value (9007199254740991) out of range of int (-2147483648 - 2147483647)]
+2026-04-12 18:04:44.694 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Numeric value (9007199254740991) out of range of int (-2147483648 - 2147483647)]
+2026-04-12 18:04:44.897 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Numeric value (9007199254740991) out of range of int (-2147483648 - 2147483647)]
+2026-04-12 18:04:48.301 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Numeric value (9007199254740991) out of range of int (-2147483648 - 2147483647)]
+2026-04-12 19:07:57.580 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m35s750ms61µs300ns).
+2026-04-12 19:56:11.092 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 19:56:11.093 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 19:57:05.304 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Start destroying Publisher
+2026-04-12 19:57:05.305 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Start destroying common HttpClient
+2026-04-12 19:57:05.305 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Start destroying ThreadPool
+2026-04-12 19:57:05.306 [Thread-49] WARN  com.alibaba.nacos.common.notify.NotifyCenter - [NotifyCenter] Destruction of the end
+2026-04-12 19:57:05.306 [Thread-1] WARN  c.alibaba.nacos.common.executor.ThreadPoolManager - [ThreadPoolManager] Destruction of the end
+2026-04-12 19:57:05.306 [Thread-14] WARN  c.alibaba.nacos.common.http.HttpClientBeanHolder - [HttpClientBeanHolder] Destruction of the end
+2026-04-12 23:00:20.007 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.alibaba.cloud.nacos.NacosConfigAutoConfiguration' of type [com.alibaba.cloud.nacos.NacosConfigAutoConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). The currently created BeanPostProcessor [nacosAnnotationProcessor] is declared through a non-static factory method on that class; consider declaring it as static instead.
+2026-04-12 23:00:20.023 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigProperties' of type [com.alibaba.cloud.nacos.NacosConfigProperties] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 23:00:20.202 [main] WARN  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'nacosConfigManager' of type [com.alibaba.cloud.nacos.NacosConfigManager] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying). Is this bean getting eagerly injected/applied to a currently created BeanPostProcessor [nacosAnnotationProcessor]? Check the corresponding BeanPostProcessor declaration and its dependencies/advisors. If this bean does not have to be post-processed, declare it with ROLE_INFRASTRUCTURE.
+2026-04-12 23:00:29.691 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'forget:pwd:email:code' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 23:00:29.693 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'login' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 23:00:29.693 [main] WARN  i.m.c.instrument.binder.cache.CaffeineCacheMetrics - The cache 'register' is not recording statistics. No meters except 'cache.size' will be registered. Call 'Caffeine#recordStats()' prior to building the cache for metrics to be recorded.
+2026-04-12 23:06:59.500 [http-nio-8080-exec-1] WARN  org.apache.catalina.util.SessionIdGeneratorBase - Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [108] milliseconds.
+2026-04-12 23:07:00.117 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:07:00.117 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:07:03.358 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:07:03.358 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:07:08.621 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:07:08.621 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:07:13.704 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:07:13.704 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:09:22.341 [http-nio-8080-exec-5] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:09:22.341 [http-nio-8080-exec-5] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:11:56.078 [http-nio-8080-exec-6] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:11:56.078 [http-nio-8080-exec-6] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:11:58.705 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:11:58.705 [http-nio-8080-exec-7] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:12:20.623 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:12:20.623 [http-nio-8080-exec-8] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:12:24.973 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:12:24.973 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:12:26.917 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:12:26.917 [http-nio-8080-exec-10] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:12:27.515 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:12:27.515 [http-nio-8080-exec-1] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:12:31.177 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:12:31.177 [http-nio-8080-exec-2] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:12:50.233 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:12:50.233 [http-nio-8080-exec-3] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:12:55.657 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:12:55.657 [http-nio-8080-exec-4] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:13:34.994 [http-nio-8080-exec-5] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:13:34.994 [http-nio-8080-exec-5] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:20:12.965 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png'
+2026-04-12 23:20:12.965 [http-nio-8080-exec-9] WARN  o.s.w.s.m.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotWritableException: No converter for [class com.example.XSJ.Pojo.Result] with preset Content-Type 'image/png']
+2026-04-12 23:21:01.608 [http-nio-8080-exec-1] WARN  com.example.XSJ.utils.EmailVerifyUtils - 邮箱1679002571@qq.com的验证码验证失败，输入：262799，实际：376090
