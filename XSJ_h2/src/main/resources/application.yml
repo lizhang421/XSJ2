@@ -10,18 +10,17 @@ spring:
 
   mvc:
     format:
-      date-time: yyyy-MM-dd HH:mm:ss
-  ai:
+      date-time: 
     dashscope:
               api-key: 
               base-url: 
               chat:
                 options:
-                  model: qwen-plus
+                  model:
 
 aliyun:
   oss:
-    endpoint: oss-cn-beijing..com
+    endpoint:
     access-key-id: 
     access-key-secret: 
     bucket-name: 
@@ -30,7 +29,7 @@ aliyun:
 
 
 mybatis:
-  mapper-locations: classpath*:com/example/XSJ/Mapper/UserMapper/*.xml
+  mapper-locations:
   configuration:
     map-underscore-to-camel-case: true
 
@@ -40,9 +39,9 @@ email:
     username:
     auth-code: 
   smtp :
-    host: smtp.qq.com
-    port: 465
-    ssl : true
-    debug: true
+    host:
+    port:
+    ssl :
+    debug:
 
 
