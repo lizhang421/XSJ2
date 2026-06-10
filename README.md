@@ -4,6 +4,7 @@
 数据库 mysql MongoDb等
 项目中会使用到aliyun 和字节等ai模型的api 和oss云对象存储，需要使用的伙伴记得准备好。
 用户端运行视频部分如下
+
 <img width="1249" height="701" alt="image" src="https://github.com/user-attachments/assets/af16667e-77ff-41f9-b332-3be0dd06b24e" />
 <img width="1234" height="710" alt="image" src="https://github.com/user-attachments/assets/869b6af2-f666-4f84-bbb6-e15ca98e13c1" />
 <img width="1277" height="737" alt="image" src="https://github.com/user-attachments/assets/bb8b2a53-738b-4cd2-889f-0e801d59eaf5" />
