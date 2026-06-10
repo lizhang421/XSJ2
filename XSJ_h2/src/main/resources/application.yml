@@ -1,32 +1,32 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/XSJF1
-    username: root
-    password: 530412
+    url: 
+    username: 
+    password: 
   data:
     mongodb:
-      uri: mongodb://localhost:27017/xsjf1
+      uri: 
 
   mvc:
     format:
       date-time: yyyy-MM-dd HH:mm:ss
   ai:
     dashscope:
-              api-key: sk-7d99f8b407354665816eab1507c68b19
-              base-url: https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions
+              api-key: 
+              base-url: 
               chat:
                 options:
                   model: qwen-plus
 
 aliyun:
   oss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5tBhdXBTnmsjjDFAXY1E
-    access-key-secret: HZTODzl1ChjzUTYoAZfFRj60FFmepj
-    bucket-name: lizhanghao
-    base-dir: images/
-    base-vio: video/
+    endpoint: oss-cn-beijing..com
+    access-key-id: 
+    access-key-secret: 
+    bucket-name: 
+    base-dir: 
+    base-vio: 
 
 
 mybatis:
@@ -37,8 +37,8 @@ mybatis:
 email:
   sender:
     #邮箱账号
-    username: 1679002571@qq.com
-    auth-code: jezrhkqzvtodbeca  #邮箱推送授权代码
+    username:
+    auth-code: 
   smtp :
     host: smtp.qq.com
     port: 465
